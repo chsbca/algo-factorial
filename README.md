@@ -2,8 +2,6 @@
 
 ## Usage
 
-## Usage
-
 To run `factorial.js` itself:
 
 ```sh
