@@ -3,3 +3,5 @@ function factorial(num) {
 }
 
 module.exports = factorial;
+
+// node factorialSpec.js 
